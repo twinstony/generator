@@ -1,3 +1,0 @@
-[submodule "app/styles/dpl"]
-	path = app/styles/dpl
-	url = git@gitlab.alibaba-inc.com:aliyun-ued/dpl.git
